@@ -1,0 +1,5 @@
+
+.env
+Dockerfile
+src/env.ts
+src/listeners/interactionCreate.ts
