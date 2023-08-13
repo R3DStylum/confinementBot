@@ -1,3 +1,5 @@
 Dockerfile
 src/env.ts
 src/listeners/interactionCreate.ts
+node_modules
+build
