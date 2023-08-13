@@ -1,7 +1,7 @@
 # confinementBot
 Un bot discord pour mettre en quarantaine les éléments indésirables
 
-# installation
+# Installation
 - Prérequis : Node v18  
 Une fois dans votre dossier, éditer .env avec les informations nécessaires  
 Ensuite, rentrer ces commandes dans l'ordre :  
@@ -22,4 +22,19 @@ npm run start
 ```
 Démarre le bot
 
+# Commandes
+
+- /confiner
+```
+/confiner role canal
+```
+Confine les membres avec le rôle dans le canal vocal donnée.  
+  
+- /confinement
+```
+/confinement actif/inactif
+```
+Active ou désactive le confinement  
+  
+  
 Amusez vous bien à ENFERMER DES GENS !
