@@ -2,7 +2,8 @@
 Un bot discord pour mettre en quarantaine les éléments indésirables
 
 # Installation
-- Prérequis : Node v18
+Prérequis : 
+- Node v18
 - Votre Bot  
 Une fois dans votre dossier, éditer .env avec les informations nécessaires  
 Donner les "Privileged Gateway Intents" à votre bot dans la rubrique bot de votre appli  
